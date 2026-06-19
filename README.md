@@ -1,111 +1,36 @@
-# 👋 Hi, I'm Ebrahim Ahmad Ibrahim Abdelkhalek
+# BMW Sales Analytics Dashboard
 
-🎓 Student at Management Information Systems (MIS)
+## Project Overview
+This Power BI project analyzes BMW sales performance across regions, vehicle models, and years.
 
-📊 Aspiring Data Analyst passionate about transforming raw data into actionable insights and business decisions.
+## Tools Used
+- Power BI
+- SQL
+- Excel
+- DAX
+- Power Query
 
-I am continuously developing my skills in Data Analytics, Business Intelligence, and Data Visualization through real-world projects using Power BI, Excel, SQL, and Python.
+## Key KPIs
+- Total Revenue
+- ARPU
+- Total Units Sold
+- BEV Share %
 
----
+## Key Insights
+- X7 is the top revenue-generating model.
+- China leads all regions in revenue.
+- Total sales exceeded 25M units.
+- Strong contribution from BEV vehicles.
 
-## 📫 Contact Information
+## Files Included
+- BMW_PowerBI_Sales_Analytics.pbix
+- BMW_Sales_Analytics.xlsx
+- BMW_Sales_Analytics.sql
 
-📧 Email: [ibrahim.abdelkhalek.data@gmail.com](mailto:ibrahim.abdelkhalek.data@gmail.com)
+## Dashboard Preview
 
-🔗 LinkedIn:
-https://www.linkedin.com/in/ebrahim-ahmad-12a74432a
+![Executive Summary](Executive_Summary.png)
 
-🔗 GitHub:
-https://github.com/EBRAHIM123-A
+## Data Model
 
----
-
-## 🚀 Technical Skills
-
-### Data Analysis
-
-* Data Cleaning
-* Data Transformation
-* Data Wrangling
-* Exploratory Data Analysis (EDA)
-* Data Interpretation
-* Data Validation
-* Data Storytelling
-* Business Analysis
-* Statistical Analysis
-
-### Business Intelligence
-
-* Power BI
-* Dashboard Development
-* KPI Design
-* Interactive Reports
-* Data Modeling
-* DAX
-* Power Query
-
-### Database
-
-* SQL
-* Database Design
-* Data Extraction
-* Joins
-* Aggregations
-
-### Microsoft Excel
-
-* Pivot Tables
-* Pivot Charts
-* Power Query
-* Lookup Functions
-* Conditional Formatting
-* Advanced Formulas
-* Data Visualization
-
-### Programming
-
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-
-### Visualization
-
-* Power BI
-* Excel Charts
-* Interactive Dashboards
-* Business Reporting
-
----
-
-## 💡 Soft Skills
-
-* Problem Solving
-* Critical Thinking
-* Analytical Thinking
-* Communication Skills
-* Teamwork
-* Time Management
-* Attention to Detail
-* Adaptability
-* Continuous Learning
-* Presentation Skills
-* Decision Making
-
----
-
-## 📈 Current Focus
-
-* Data Analytics
-* Business Intelligence
-* Power BI Development
-* SQL
-* Python for Data Analysis
-* Building Real-World Portfolio Projects
-
----
-
-### Motto
-
-"Turning Data into Insights and Insights into Decisions."
-
+![Data Model](Data_Model.png)
